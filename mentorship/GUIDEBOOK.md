@@ -2,7 +2,7 @@
 
 ## **Background of Operation Code**
 
-Operation Code is on a mission to help the military community learn software development, enter the tech industry, and code the future! Our Mentorship Program connects veterans and the military community with tech industry professionals, for lifelong learning. Working together in our online community, you can select any programming skillset / tech stack of your choice, including:
+Operation Code is on a mission to help the military community learn software development, enter the tech industry, and code the future! Our Mentorship Program connects members of the military community with tech industry professionals, for lifelong learning. Working together in our online community, you can select any programming skillset / tech stack of your choice, including:
 
 * Web Development
  * Ruby/Rails
@@ -86,7 +86,7 @@ Mentees are supposed to be passionate about learning or improving their skills, 
 
 ## **Standard Operating Procedures**
 
-All Operation Code mentors are invited to join our private channel, #mentors-internal where mentors and staff can discuss topics ranging from who's mentoring, how are things going, and how can we improve the program. All information shared in the channel regarding a mentee should be anonymous and confidential.
+All Operation Code mentors are invited to join our private channel, #mentors-internal, where mentors and staff can discuss topics ranging from who's mentoring, how are things going, and how can we improve the program. All information shared in the channel regarding a mentee should be anonymous and confidential.
 
 ### Initial Sign-up / Pre First Meeting
 
@@ -94,7 +94,7 @@ All Operation Code mentors are invited to join our private channel, #mentors-int
 
 2. The mentor should update the spreadsheet pinned to the #mentors-internal channel, adding: 
 
-    1. the mentees contact information
+    1. The mentee's contact information
 
     2. skill areas requested
 
