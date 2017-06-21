@@ -1,34 +1,28 @@
 # Strategic Plan 2017-2021
 
 ## Our Vision
-Operation Code is the leading veteran’s service organization, establishing connections between the military community and the civilian sector for software development opportunities.
+Operation Code is the leading veteran’s social impact organization, establishing connections between the military community and the civilian sector for software development opportunities.
 
 ## Our Mission
-Our mission is to empower the military community to learn software development, enter the tech industry, and code the future.
+Our mission is to empower the transitioning military community to learn software development, enter the tech industry, and code the future.
 
-## Our Core Values
+## Our Core Values and Pillars 
 
-* *Integrity.* We hold ourselves accountable for obtaining results that fulfill our Mission and work towards our Vision. As leaders, we are responsible for what we do, or fail to do.  We act consistently with Operation Code's mission, being honest in what we do and say, and accept responsibility for our collective and individual actions.
+* *Integrity.* We hold ourselves accountable for obtaining results that fulfill our Mission and work towards our Vision. As leaders, we are responsible for what we do or fail to do.  We act consistently with Operation Code's mission, being honest in what we do and say, and accept responsibility for our collective and individual actions.
 
-* *Transparency.* By being transparent in everything Operation Code does, from our open source code base to our financial operations, our community can trust that we will do our best with the resources we're given.
+* *Clear and Transparent.* By being transparent in everything Operation Code does, from our open source code base to our financial operations, our community can trust that we will do our best with the resources we are given. In the words of the US Army Signal Corps, we get the message through. We ensure that we are clear and concise in how we communicate, in support of our operations. We are considerate of the sender and the receiver, and communicate in the manner that best suits the needs of the mission and the vision.
 
-* *Agility.* We run fast and we run lean. When our operating environment changes, and new challenges emerge, we're ready to respond. We communicate as early and as often as possible, and default to overcommunication in all of our interactions. We always look for a better, more effective, and more efficient way to run our operations. 
+* *Curiosity and Agility.* Innovation is central to our mindset. We maintain an attitude of continuous improvement and we constantly look for new and better ways to serve our community - we owe them nothing less. We run fast and we run lean. When our operating environment changes, and new challenges emerge, we are ready to respond. We communicate as early and as often as possible, and default to overcommunication in all of our interactions. 
 
-* *Curiosity.* Innovation is central to our mindset. We maintain an attitude of continuous improvement, and we constantly look for new and better ways to serve our community - we owe them nothing less.
+* *Responsibility to the Community.* We exist to meet the needs of the military community. We will humbly remember that their service was of the highest order and that Operation Code works for them. When it comes to the welfare and well-being of our community, We look out for the people to our left and right, and always keep a hand free to help. We listen to our community and our people to ensure we are working towards the mission and the vision.
 
-* *Responsibility.* We exist to meet the needs of the military community. We will humbly remember that their service was of the highest order and that Operation Code works for them. When it comes to the welfare and well-being of our community, the buck stops here.
-
-* *Clarity.* In the words of the US Army Signal Corps, we get the message through. We ensure that we are clear and concise in how we communicate, in support of our operations. We are considerate of the sender and the receiver, and communicate in the manner that best suits the needs of the mission and the vision.
-
-* *Community.* We look out for the people to our left and right, and always keep a hand free to help. We listen to our community and our people to ensure we are working towards the mission and the vision.
 
 ## Who We Serve
-Past and present Army, Navy, Marines, Air Force, and Coast Guard service members, veterans and military spouses are welcome to apply to any of our programs. Through our online community, we work with 1000+ members around the world.
+Past and present Army, Navy, Marines, Air Force, and Coast Guard service members, disabled veterans, and military spouses are welcome to apply to any of our programs. Through our online community, we work with 2000+ members around the world.
 
 ## Our Goals 2017-2021
-* Develop our tech infrastructure, to become a central hub of interaction for the military software development community.
-* Increase the number of Code Schools approved by the VA to accept Post-9/11 GI Bill and vocational rehab funding.
-* Expand the size and knowledge base of the Operation Code community.
+* Develop our tech infrastructure to become a central hub of interaction for the military software development community.
+* Expand the size and knowledge base of the Operation Code community by focusing on military installations and transition programs.
 * Increase awareness of software development opportunities within the military community.
 * Strengthen the relationship between the military community and tech industry.
 
