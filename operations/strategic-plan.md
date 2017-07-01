@@ -4,7 +4,7 @@
 Operation Code is the leading veteran’s social impact organization, establishing connections between the military community and the civilian sector for software development opportunities.
 
 ## Our Mission
-Our mission is to empower the transitioning military community to learn software development, enter the tech industry, and code the future.
+Our mission is to help the military community learn software development, enter the tech industry, and code the future! Through teaching veterans, transitioning servicemembers, and their families to code with open source projects, we'll be able to help fill our economy's technical talent shortage with our nation's finest.
 
 ## Our Core Values and Pillars 
 
@@ -15,7 +15,6 @@ Our mission is to empower the transitioning military community to learn software
 * *Curiosity and Agility.* Innovation is central to our mindset. We maintain an attitude of continuous improvement and we constantly look for new and better ways to serve our community - we owe them nothing less. We run fast and we run lean. When our operating environment changes, and new challenges emerge, we are ready to respond. We communicate as early and as often as possible, and default to overcommunication in all of our interactions. 
 
 * *Responsibility to the Community.* We exist to meet the needs of the military community. We will humbly remember that their service was of the highest order and that Operation Code works for them. When it comes to the welfare and well-being of our community, We look out for the people to our left and right, and always keep a hand free to help. We listen to our community and our people to ensure we are working towards the mission and the vision.
-
 
 ## Who We Serve
 Past and present Army, Navy, Marines, Air Force, and Coast Guard service members, disabled veterans, and military spouses are welcome to apply to any of our programs. Through our online community, we work with 2000+ members around the world.
