@@ -16,7 +16,7 @@
 
 * *Accounts Receivable:* How much donations are we expecting, from Amazon Smile, employer-employee matching, Stripe, and corporations?
 
-* *Accounts Payable:* How much do we owe other people and/or companies? 
+* *Accounts Payable:* How much do we owe other people and/or companies?
 
 * *Donation Effectiveness:* Are companies and donors donating? Do companies and individual donors know how to donate?
 
