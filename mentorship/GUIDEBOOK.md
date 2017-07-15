@@ -92,35 +92,25 @@ All Operation Code mentors are invited to join our private channel, #mentors-int
 
 1. The request will be reviewed, and a mentor matching the skills requested should pick up the request within 24 hours.
 
-2. The mentor should update the spreadsheet pinned to the #mentors-internal channel, adding: 
+1. If the user joins Slack, the mentor should reach out to them to get the conversation started - tips for conversation starters are listed in the [appendix](#appendix) (If the mentee is not on Slack the mentor should reach out to them via email to invite them onto Slack and get the conversation started)
 
-    1. The mentee's contact information
+1. The mentor should make at least three attempts over fourteen days to reach out to the mentee 
 
-    2. skill areas requested
+1. If the mentee does not respond to any of the outreach attempts the mentor should note this on the spreadsheet
 
-    3. Time zone of mentee
+1. If the mentee responds after the fourteen day period the mentor can:
 
-    4. Date of initial contact
+    1. Pick up the conversation if they've not reached the two mentee limit
 
-    5. Change status to "initial contact"
+    1. Tell the mentee that they need to find them another mentor and pass them on to an open mentor
 
-3. If the user joins Slack, the mentor should reach out to them to get the conversation started (tips for conversation starters are listed in the appendix)
+1. Once the mentee and mentor start communicating they should set up a time for their first voice discussion to fill out the [First Meeting Checklist](#first-meeting-checklist)
 
-4. If the mentee is not on Slack the mentor should reach out to them via email to invite them onto Slack and get the conversation started
-
-5. The mentor should make at least three attempts over seven days to reach out to the mentee 
-
-6. If the mentee does not respond to any of the outreach attempts the mentor should note this on the spreadsheet, change the mentees status to "no response" and move on to another mentee
-
-7. If the mentee responds after the seven day period the mentor can:
-
-    6. Pick up the conversation if they've not reached the two mentee limit
-
-    7. Tell the mentee that they need to find them another mentor and pass them on to an open mentor
-
-8. Once the mentee and mentor start communicating they should set up a time for their first voice discussion to fill out the First Meeting Checklist, which should then be added to their Mentor entry on Airtable.
-
-9. At this point the mentor should update the status of the master spreadsheet to "in progress"
+1. After the first meeting the mentor should update the spreadsheet pinned to the #mentors-internal channel, adding: 
+    1. The mentee's email
+    1. Skill area(s) requested
+    1. Set the date of the **Fulfilled at** column to the date of the first meeting
+    1. Change status of the **Fulfilled** column
 
 ### Ongoing / Post First Meeting
 
