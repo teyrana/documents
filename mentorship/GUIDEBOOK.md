@@ -114,43 +114,24 @@ All Operation Code mentors are invited to join our private channel, #mentors-int
 
 ### Ongoing / Post First Meeting
 
-1. If at any point after the first meeting a mentee goes AWOL and does not respond to communication attempts for more than two weeks the mentor should:
+1. If at any point after the first meeting a mentee goes AWOL and does not respond to communication attempts for more than two weeks the mentor should update the note on the spreadsheet to include last contact with the mentee and how many attempts were made to reach out to them.
 
-    1. Move the mentee’s status to "on hold" on the master spreadsheet 
+1. Post in the #mentors-internal channel (Mentor Program Coordinators may make one final attempt to reach out to the mentee)
 
-    2. Make notes on last contact with the mentee and how many attempts were made to reach out to them
+1. After the first month of work, the mentor and mentee should evaluate progress
 
-10. Mentor Program Coordinators will review this list weekly and make one final attempt to reach out to the mentee
+1. When the commitment date initially agreed upon when the First Meeting Checklist was completed is hit the mentor and mentee should have a Closing Meeting to decide whether or not to extend their commitments (if extended the notes column on the spreadsheet should be updated to reflect this).
 
-11. If after this last attempt no response is received the coordinators will change the status on the master spreadsheet to "contact lost"
+### Mentor AWOL
 
-12. If at any point after this first meeting a mentee’s mentor goes AWOL and does not respond to communication attempts for longer than two weeks the mentee should:
-
-    8. Reach out to the program coordinators via Slack or email and explain the situation
-
-    9. Program Coordinators will attempt to make contact with the mentor to obtain their current status 
-
-    10. If contact with the mentor is reestablished the Program Coordinator can decide at their discretion to:
-
-        1. Have the mentor continue with the mentee
-
-        2. Reassign the mentee to another mentor
-
-        3. Revoke the mentor’s access to the Mentor Program
-
-    11. If no contact can be reestablished with the mentor after five attempts over two weeks the Program Coordinator should revoke the mentor’s status and reassign the mentee
-
-13. After the first month of work, the mentor and mentee should evaluate progress by filling out the Monthly Check-in document, which should be uploaded to the Mentor entry on Airtable when complete.
-
-14. When the commitment date initially agreed upon when the First Meeting Checklist was completed is hit the mentor and mentee should have a Closing Meeting to:
-
-    12. Decide whether or not to extend their commitments
-
-        4. If extending this should be noted in the master spreadsheet as a "re-up"
-
-        5. If not extending, the mentees status on the master spreadsheet should be changed to "closed"
-
-    13. Program Coordinators will check the spreadsheet weekly and should follow up with all mentees whose status is "closed" to fill out the Closing Evaluation form (see appendix)
+If at any point after the first meeting a mentee’s mentor goes AWOL and does not respond to communication attempts for longer than two weeks the mentee should:
+1. Reach out to the program coordinators via Slack or email and explain the situation
+1. Program Coordinators will attempt to make contact with the mentor to obtain their current status
+1. If no contact can be reestablished with the mentor after five attempts over two weeks the Program Coordinator should revoke the mentor’s status and reassign the mentee
+1. If contact with the mentor is reestablished the Program Coordinator can decide at their discretion to:
+	* Have the mentor continue with the mentee
+	* Reassign the mentee to another mentor
+	* Revoke the mentor’s access to the Mentor Program
 
 ## **Recognition Policy**
 
