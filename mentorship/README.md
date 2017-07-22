@@ -14,7 +14,7 @@ Once you're in slack please fill out http://op.co.de/mentor-enrollment. You shou
 
 When you sign up as a mentor you'll identify a few key areas you're able to help in. We'll use these areas to match you up with members who are requesting a mentor. When a memeber requests a mentor they'll be matched with one of our mentors. If you match the areas of interest for the mentee you'll be paired up and notified. 
 
-Please refer to the [Mentor Guidebook](https://github.com/OperationCode/mentorship/blob/master/GUIDEBOOK.md) for more details on how to work with your mentee.
+Please refer to the [Mentor Guidebook](https://github.com/OperationCode/documents/blob/master/mentorship/GUIDEBOOK.md) for more details on how to work with your mentee.
 
 ## Squads
 
